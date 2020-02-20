@@ -1,5 +1,6 @@
-# Unit 4 – Pandas Homework, PyCitySchools
+# PyCitySchools
 
+## **Objective:**
 The objective of this project is to use Pandas to analyze district-wide standardized test results by aggregating the data to show trends in school performance. The following summary tables were created: 
 
 * **District Summary:** Key metrics about the district.
@@ -11,3 +12,6 @@ The objective of this project is to use Pandas to analyze district-wide standard
 * **Scores by School Spending:** Breaks down school performance based on average spending ranges per student.
 * **Scores by School Size:** Breaks down school performance based on school size (small, medium, and large).
 * **Scores by School Type:** Breaks down school performance based on school type (charter vs. district).
+
+## **Tools:**
+1. Python -  Pandas
