@@ -15,3 +15,19 @@ The objective of this project is to use Pandas to analyze district-wide standard
 
 ## **Tools:**
 1. Python -  Pandas
+
+## **Screenshots (Tables):**
+District Summary
+![screenshot1.jpg](images/table_screenshot1.JPG)
+
+School Summary
+![screenshot2.jpg](images/table_screenshot2.JPG)
+
+Top Performing Schools
+![screenshot3.jpg](images/table_screenshot3.JPG)
+
+Math Scores by Grade
+![screenshot5.jpg](images/table_screenshot4.JPG)
+
+Scores by School Spending
+![screenshot6.jpg](images/table_screenshot5.JPG)
