@@ -26,11 +26,8 @@ School Summary
 Top Performing Schools
 ![screenshot3.jpg](images/table_screenshot3.JPG)
 
-Bottom Performing Schools
-![screenshot4.jpg](images/table_screenshot4.JPG)
-
 Math Scores by Grade
-![screenshot5.jpg](images/table_screenshot5.JPG)
+![screenshot5.jpg](images/table_screenshot4.JPG)
 
 Scores by School Spending
-![screenshot6.jpg](images/table_screenshot6.JPG)
+![screenshot6.jpg](images/table_screenshot5.JPG)
