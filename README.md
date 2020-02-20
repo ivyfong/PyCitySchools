@@ -16,7 +16,7 @@ The objective of this project is to use Pandas to analyze district-wide standard
 ## **Tools:**
 1. Python -  Pandas
 
-## **Screenshot:**
+## **Screenshots (Tables):**
 District Summary
 ![screenshot1.jpg](images/table_screenshot1.JPG)
 
