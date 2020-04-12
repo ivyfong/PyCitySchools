@@ -14,7 +14,7 @@ The objective of this project is to use Pandas to analyze district-wide standard
 * **Scores by School Type:** Breaks down school performance based on school type (charter vs. district).
 
 ## **Tools:**
-1. Python -  Pandas
+Python -  Pandas
 
 ## **Screenshots (Tables):**
 District Summary
